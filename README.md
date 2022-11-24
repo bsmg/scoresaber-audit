@@ -12,6 +12,7 @@ This is currently a very rough repo containing mostly technical information.
 - [ ] Grab dependency DLLs
   - [ ] Game Version DLLs
   - [ ] Mod DLLs
+  - [ ] Strip dependency DLLs for hosting on the repo
 - [ ] Deobfuscate
   - [ ] Deobfuscate all DLLs
   - [ ] Ensure deobfuscation was successfull
