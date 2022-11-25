@@ -1,6 +1,7 @@
 # ScoreSaber Audit
 
 This is currently a very rough repo containing mostly technical information.
+The audit process is still ongoing so please be patient.
 
 ## To-do
 
