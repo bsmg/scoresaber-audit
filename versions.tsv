@@ -1,4 +1,16 @@
 filename	version	platform	release date	sha1
+ScoreSaber-1.0.3-oculus.dll	1.0.3	oculus	unknown	b7eb7dda08f3bb3d18fed79dab378671c7061ebbc50ed62019ea2f36d3b36ccd
+ScoreSaber-1.0.3-steam.dll	1.0.3	steam	unknown	0efadaca12e24a79b03ae24f19b334c1dbaa55ed98336126aa82bfd1b8ede935
+ScoreSaber-1.0.4-oculus.dll	1.0.4	oculus	unknown	c94980cb0224aedaceda870603245d9208218470489564748b5fd6b7d8174fad
+ScoreSaber-1.0.4-steam.dll	1.0.4	steam	unknown	4eee580981c22ee4ec23e0a43100eabc8f0139480a144f3dd802c85da0cba5ff
+ScoreSaber-1.0.5-oculus.dll	1.0.5	oculus	unknown	b7eb7dda08f3bb3d18fed79dab378671c7061ebbc50ed62019ea2f36d3b36ccd
+ScoreSaber-1.0.5-steam.dll	1.0.5	steam	unknown	0efadaca12e24a79b03ae24f19b334c1dbaa55ed98336126aa82bfd1b8ede935
+ScoreSaber-1.0.6-oculus.dll	1.0.6	oculus	unknown	b7eb7dda08f3bb3d18fed79dab378671c7061ebbc50ed62019ea2f36d3b36ccd
+ScoreSaber-1.0.6-steam.dll	1.0.6	steam	unknown	0efadaca12e24a79b03ae24f19b334c1dbaa55ed98336126aa82bfd1b8ede935
+ScoreSaber-1.0.7-oculus.dll	1.0.7	oculus	unknown	ad800fa0dd97105570189843da75ab5e98c27cd818258094b22559b5737f2f0c
+ScoreSaber-1.0.7-steam.dll	1.0.7	steam	unknown	66ca681f5cc108fd448b228ef1318bdb7ede2f854f52ef621cbec6a9cd7322b7
+ScoreSaber-1.7.1-oculus.dll	1.7.1	oculus	unknown	df9444e43d8d3ee14a987e23aad1b712a9fe3873f95e22adb14535e05389b7a0
+ScoreSaber-1.7.1-steam.dll	1.7.1	steam	unknown	66ca681f5cc108fd448b228ef1318bdb7ede2f854f52ef621cbec6a9cd7322b7
 ScoreSaber-1.7.2-oculus.dll	1.7.2	oculus	unknown	b8e5b09a306935a47842301ffb4843544a19a975342de814163f5f1c8f5f7bc4
 ScoreSaber-1.7.2-steam.dll	1.7.2	steam	unknown	15963ff615e9e82ab596c8aa2ec56502132ef732f4bbf91902162ffc461585fa
 ScoreSaber-2.0.4-oculus.dll	2.0.4	oculus	unknown	93ca797438555dbe8cf091e9c5a0bebb19a22c46ab9feb440fa94b11660cd444
