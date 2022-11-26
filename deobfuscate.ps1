@@ -1,5 +1,6 @@
 param (
   [string]$Version,
+  [bool]$Verbose,
   [bool]$DryRun
 )
 
@@ -33,6 +34,10 @@ $versions = Resolve-Path -Path ./versions.tsv
 $command = "dotnet run -c Release --project '$project' -- --versions '$versions' --password velvet99"
 if ($version) {
   $command = "$command -V '$version'"
+}
+
+if ($Verbose) {
+  $command = "$command --verbose"
 }
 
 if ($DryRun) {
