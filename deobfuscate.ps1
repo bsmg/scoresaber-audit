@@ -30,7 +30,7 @@ $project = Resolve-Path -Path ./Scoresaber-Deobfuscate/Deobfuscator.Bulk
 $versions = Resolve-Path -Path ./versions.tsv
 
 # Build command
-$command = "dotnet run --project '$project' -- --versions '$versions' --password velvet99"
+$command = "dotnet run -c Release --project '$project' -- --versions '$versions' --password velvet99"
 if ($version) {
   $command = "$command -V '$version'"
 }
