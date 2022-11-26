@@ -15,12 +15,12 @@ The audit process is still ongoing so please be patient.
 - [ ] Organise DLLs into their target game version
   - [x] Organise based on ModSaber data
   - [x] Organise based on BeatMods data
-  - [ ] De-alias game versions
+  - [x] De-alias game versions
   - [ ] Verify versions are correct
 - [ ] Grab dependency DLLs
   - [ ] Game Version DLLs
   - [ ] Mod DLLs
-  - [ ] Strip dependency DLLs for hosting on the repo
+  - [x] Strip dependency DLLs for hosting on the repo
 - [ ] Deobfuscate
   - [ ] Deobfuscate all DLLs
   - [ ] Ensure deobfuscation was successfull
