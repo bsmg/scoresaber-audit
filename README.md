@@ -1,7 +1,8 @@
 # ScoreSaber Audit
 
-This is currently a very rough repo containing mostly technical information.
-The audit process is still ongoing so please be patient.
+> **Warning**  
+> This is currently a very rough repo containing mostly technical information.
+> The audit process is still ongoing so please be patient.
 
 > **Note**:  
 > This repo contains assemblies derived from Unity, Unity Dependencies, and Beat Saber.  
