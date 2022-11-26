@@ -3,6 +3,13 @@
 This is currently a very rough repo containing mostly technical information.
 The audit process is still ongoing so please be patient.
 
+> **Note**:  
+> This repo contains assemblies derived from Unity, Unity Dependencies, and Beat Saber.  
+> These assemblies have been stripped, so no code is present inside them, only the class and method signatures, in order to comply with copyright law.
+>
+> This repo also contains redistributions of several OSS licenced plugins and libraries for Beat Saber.
+> You can find their licences in the [Licenses](https://github.com/bsmg/scoresaber-audit/tree/main/Licenses) directory.
+
 ## To-do
 
 - [ ] Organise DLLs into their target game version
