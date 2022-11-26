@@ -1,1 +1,11 @@
+# Toolchain
+eazdevirt/
+de4dot/
+osu-decoder/
+EazFixer/
+
+# Working Directories
+*-deobfuscation/
+
+# Scripts
 scripts/
