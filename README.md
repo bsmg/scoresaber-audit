@@ -4,7 +4,7 @@
 > This is currently a very rough repo containing mostly technical information.
 > The audit process is still ongoing so please be patient.
 
-> **Note**:  
+> **Note**  
 > This repo contains assemblies derived from Unity, Unity Dependencies, and Beat Saber.  
 > These assemblies have been stripped, so no code is present inside them, only the class and method signatures, in order to comply with copyright law.
 >
