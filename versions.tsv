@@ -24,10 +24,10 @@ ScoreSaber-2.0.4-oculus.dll	2.0.4	oculus	2018-11-29T00:30:05.598Z	0.12.0p1	93ca7
 ScoreSaber-2.0.4-steam.dll	2.0.4	steam	2018-11-29T00:30:05.598Z	0.12.0p1	85aa2b8171f311014936543139b1ab0bda645dad7d3b67dfbba87c2985d108d3
 ScoreSaber-2.0.5-oculus.dll	2.0.5	oculus	2018-12-01T03:56:57.784Z	0.12.2	e7e846466c23b0988ae043ebe4dbdcfab6f181cd0c3b4ec4da4890fd940f7caa
 ScoreSaber-2.0.5-steam.dll	2.0.5	steam	2018-12-01T03:56:57.784Z	0.12.2	b1102c587eaaa00e33632315ebd40369c8ff5d4969f5cdd0fd0e3423c2461f8c
-ScoreSaber-2.0.9-oculus.dll	2.0.9	oculus	unknown	0.12.2	04c9b6deb7c53cba236e0329c0f5f7cba7c62bccca51fa71fde6524cc35ec2ae
-ScoreSaber-2.0.9-steam.dll	2.0.9	steam	unknown	0.12.2	a833edb0df2a8277f737618ec23f54cb8b7ec0a4ddf47e9bfcf3f2241a12ffd7
-ScoreSaber-2.1.0-oculus.dll	2.1.0	oculus	unknown	0.13.0p1	6d8f197eee80bb54173c97f6676ce4e5996bd11af61d90d0da1be7660d65aedb
-ScoreSaber-2.1.0-steam.dll	2.1.0	steam	unknown	0.13.0p1	febd6434d56c8e4a46144cbad0120d3f6d76a18a5eebff183ad1b6f520f70ede
+ScoreSaber-2.0.9-oculus.dll	2.0.9	oculus	2019-02-21T04:09:32.000Z	0.12.2	04c9b6deb7c53cba236e0329c0f5f7cba7c62bccca51fa71fde6524cc35ec2ae
+ScoreSaber-2.0.9-steam.dll	2.0.9	steam	2019-02-21T04:09:32.000Z	0.12.2	a833edb0df2a8277f737618ec23f54cb8b7ec0a4ddf47e9bfcf3f2241a12ffd7
+ScoreSaber-2.1.0-oculus.dll	2.1.0	oculus	2019-03-16T03:59:30.000Z	0.13.0	6d8f197eee80bb54173c97f6676ce4e5996bd11af61d90d0da1be7660d65aedb
+ScoreSaber-2.1.0-steam.dll	2.1.0	steam	2019-03-16T03:59:30.000Z	0.13.0	febd6434d56c8e4a46144cbad0120d3f6d76a18a5eebff183ad1b6f520f70ede
 ScoreSaber-2.1.1-oculus.dll	2.1.1	oculus	2019-04-05T04:30:12.768Z	0.13.1	bd8e98674c6ac9cf7d031720a11fdea9349fa32fb60998209ae0bf5fe62e3308
 ScoreSaber-2.1.1-steam.dll	2.1.1	steam	2019-04-05T04:30:12.768Z	0.13.1	17ecf995312c2316b5e2763df7cda8b94d92a2581514eee65659a825a0f7e0c1
 ScoreSaber-2.1.2-steam.dll	2.1.2	steam	2019-05-09T09:24:15.856Z	0.13.2	1b89cfa217039e0abe9f8c15b8c630a191269848362cff164a877c2dc62ae042
