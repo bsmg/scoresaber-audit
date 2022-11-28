@@ -1,6 +1,7 @@
 param (
   [string]$Version,
   [bool]$Verbose,
+  [bool]$Decompile,
   [bool]$DryRun
 )
 
@@ -38,6 +39,10 @@ if ($version) {
 
 if ($Verbose) {
   $command = "$command --verbose"
+}
+
+if ($Decompile) {
+  $command = "$command --decompile"
 }
 
 if ($DryRun) {
