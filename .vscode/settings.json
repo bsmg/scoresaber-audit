@@ -1,0 +1,10 @@
+{
+  "git.ignoredRepositories": [
+    "Scoresaber-Deobfuscate",
+    "de4dot",
+    "eazdevirt",
+    "EazFixer",
+    "ILSpy",
+    "osu-decoder",
+  ]
+}
