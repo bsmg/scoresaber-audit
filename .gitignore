@@ -1,8 +1,9 @@
 # Toolchain
-eazdevirt/
 de4dot/
-osu-decoder/
+eazdevirt/
 EazFixer/
+ILSpy/
+osu-decoder/
 
 # Working Directories
 *-deobfuscation/
