@@ -2,7 +2,8 @@ param (
   [string]$Version,
   [bool]$Verbose,
   [bool]$Decompile,
-  [bool]$DryRun
+  [bool]$DryRun,
+  [int]$Parallelism
 )
 
 function Test-Tool {
@@ -47,6 +48,10 @@ if ($Decompile) {
 
 if ($DryRun) {
   $command = "$command --dry-run"
+}
+
+if ($Parallelism) {
+  $command = "$command --parallelism $Parallelism"
 }
 
 # Run
