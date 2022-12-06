@@ -10,3 +10,6 @@ osu-decoder/
 
 # Scripts
 scripts/
+
+# Logs
+*.log
