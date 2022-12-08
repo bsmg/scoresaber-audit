@@ -13,4 +13,5 @@ osu-decoder/
 scripts/
 
 # Logs
+report.tsv
 *.log
